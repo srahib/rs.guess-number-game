@@ -1,2 +1,2 @@
-# rs.guess-number-game
+# rs.guess-number-game.py
 Guessing Number Game.
